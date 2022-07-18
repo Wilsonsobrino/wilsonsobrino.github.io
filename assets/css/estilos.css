@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/feria-autos-5.jpg");
+  background-image: url("../img/fondo2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -28,6 +28,7 @@ body {
   color: #373a3c;
 }
 
+
 @media (max-width: 768px) {
   #Contacto form label {
     font-weight: 400;
@@ -37,4 +38,17 @@ body {
     width: 100px;
   }
 
+}
+
+.colores{
+  color: #373a3c;
+}
+
+.colores2{
+  color: white;
+}
+
+#colaboracion{
+  font-weight: 100px;
+  color: #e4bd0f;
 }
